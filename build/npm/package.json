@@ -27,5 +27,14 @@
   ],
   "peerDependencies": {
     "react": ">=0.13.0"
+  },
+  "devDependencies": {
+    "babel-core": "^4.6.0",
+    "babel-loader": "^4.0.0",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "react": ">=0.13.0",
+    "webpack": "^1.6.0",
+    "webpack-dev-server": "^1.7.0"
   }
 }
